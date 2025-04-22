@@ -43,7 +43,7 @@ Este projeto integra múltiplos periféricos em uma placa baseada no **RP2040** 
 
 ---
 
-## 🧠 Autor
+## Autor
 
 Desenvolvido por Victor Gabriel Guimarães Lopes
 
